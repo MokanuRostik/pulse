@@ -1,0 +1,31 @@
+.advan {
+  min-height: 470px;
+  background: #F6F6F6;
+}
+.advan__header {
+  margin-top: 71px;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  color: #0D0D0D;
+}
+.advan__icons {
+  margin-top: 65px;
+  width: 425px;
+  display: flex;
+  justify-content: space-between;
+}
+.advan_icon {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 18px;
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+  color: #0D0D0D;
+}
+.advan_icon img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 64px;
+}
